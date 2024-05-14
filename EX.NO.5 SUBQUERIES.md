@@ -1,6 +1,6 @@
 # EX.NO 5 Sub Queries and Views in SQL
-### DATE:
-#### REGISTER NUMBER:
+### DATE:20.02.2024
+#### REGISTER NUMBER:2122220436
 ## AIM:
 To study and implement Subqueries and Views in SQL 
 ## THEORY
